@@ -67,7 +67,7 @@ y **útiles** en la **toma de decisiones**.
 
 ## 🎓 Certificaciones  
 
-📜 [Certificado en Udemy](https://www.udemy.com/certificate/UC-4218c47c-5fd7-4291-a2e8-e7c92e410241/)  
+📜 [SQL Server Integration Services (SSIS) desde 0 hasta Experto](https://www.udemy.com/certificate/UC-4218c47c-5fd7-4291-a2e8-e7c92e410241/)  
 
 
 --- 
