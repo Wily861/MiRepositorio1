@@ -36,10 +36,12 @@ y **útiles** en la **toma de decisiones**.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Nivel](https://img.shields.io/badge/Básico-7f8c8d?style=flat&color=gray)  
 
 ---
-## 📈 Propuesta de Valor
-- ✔ Transformo datos en información accionable, garantizando su calidad y precisión.
-- ✔ Optimizo procesos ETL para mayor eficiencia y menor margen de error.
-- ✔ Desarrollo soluciones estratégicas alineadas con objetivos empresariales.
+## 🚀 Propuesta de Valor  
+
+💡 **Transformo datos en conocimiento estratégico** para impulsar decisiones inteligentes y mejorar la eficiencia operativa.  
+⚙️ **Optimizo procesos ETL** garantizando integridad, velocidad y precisión en el manejo de la información.  
+📊 **Desarrollo soluciones innovadoras** alineadas con objetivos empresariales, asegurando escalabilidad y rendimiento óptimo.  
+🔍 **Especialista en validación y monitoreo de datos**, aplicando herramientas avanzadas para garantizar fiabilidad y calidad.  
 
 ---
 ## 🏆 Logros y Contribuciones
