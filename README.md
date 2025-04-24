@@ -56,6 +56,8 @@ y **útiles** en la **toma de decisiones**.
 
 ![Commits y PRs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wily861&theme=radical)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Wily861&layout=compact&theme=radical)
+
 
 --- 
 ## 🌍 Idiomas  
