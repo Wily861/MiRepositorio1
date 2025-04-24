@@ -75,12 +75,10 @@ y **útiles** en la **toma de decisiones**.
 📌 **Versionado y Desarrollo**  
 - 🏆 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
 
-
-
 --- 
-## 📫 ¡Conéctate conmigo!
-- LinkedIn: [Tu perfil en LinkedIn]
-- Correo: willyvillamil61@gmail.com
-
+## 📫 ¡Conéctate conmigo!  
+🔗 [LinkedIn](https://www.linkedin.com/in/TuPerfil)  
+📂 [GitHub](https://github.com/Wily861)  
+📩 **Correo:** willyvillamil61@gmail.com  
 
 
