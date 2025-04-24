@@ -68,6 +68,9 @@ y **útiles** en la **toma de decisiones**.
 ## 🎓 Certificaciones  
 
 📜 [SQL Server Integration Services (SSIS) desde 0 hasta Experto](https://www.udemy.com/certificate/UC-4218c47c-5fd7-4291-a2e8-e7c92e410241/)  
+📜 [Administración de Base de Datos SQL Server](https://www.udemy.com/certificate/UC-95f9445b-1b5e-4498-bd18-492e01500838/)  
+📜 [PostgreSQL de Cero a Avanzado pgAdmin4 y Shell](https://www.udemy.com/certificate/UC-93728a00-7e17-4ff7-9e8a-5f3adb0366a9/)  
+
 
 
 --- 
