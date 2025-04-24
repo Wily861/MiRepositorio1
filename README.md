@@ -77,8 +77,7 @@ y **útiles** en la **toma de decisiones**.
 
 --- 
 ## 📫 ¡Conéctate conmigo!  
-🔗 [LinkedIn](https://www.linkedin.com/in/TuPerfil)  
-📂 [GitHub](https://github.com/Wily861)  
+🔗 **[LinkedIn]**(https://www.linkedin.com/in/TuPerfil)  
 📩 **Correo:** willyvillamil61@gmail.com  
 
 
