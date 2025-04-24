@@ -6,7 +6,6 @@
 
 🚀 **Transformo datos en información estratégica, optimizando procesos y garantizando la calidad del análisis.**
 
-
 --- 
 ## 👤 Acerca de mí
 **Apasionado** por la **tecnología** y el mundo de los **datos**, disfruto **optimizando procesos**, resolviendo **problemas complejos** y explorando **herramientas** que mejoren la **calidad** y **confiabilidad** de la información. Tengo **experiencia** 
@@ -64,7 +63,6 @@ y **útiles** en la **toma de decisiones**.
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Wily861&layout=compact&theme=radical)
 
-
 --- 
 ## 🌍 Idiomas  
 
@@ -87,5 +85,4 @@ y **útiles** en la **toma de decisiones**.
 ## 📫 ¡Conéctate conmigo!  
 🔗 **[LinkedIn]**(https://www.linkedin.com/in/TuPerfil)  
 📩 **Correo:** willyvillamil61@gmail.com  
-
 
