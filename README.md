@@ -64,14 +64,16 @@ y **útiles** en la **toma de decisiones**.
 ![Inglés](https://img.shields.io/badge/Inglés-3498db?style=flat&logo=language&logoColor=white) ![Nivel](https://img.shields.io/badge/Básico-7f8c8d?style=flat&color=gray)  
 
 ---
-
 ## 🎓 Certificaciones  
 
-📜 [SQL Server Integration Services (SSIS) desde 0 hasta Experto](https://www.udemy.com/certificate/UC-4218c47c-5fd7-4291-a2e8-e7c92e410241/)  
-📜 [Administración de Base de Datos SQL Server](https://www.udemy.com/certificate/UC-95f9445b-1b5e-4498-bd18-492e01500838/)  
-📜 [PostgreSQL de Cero a Avanzado pgAdmin4 y Shell](https://www.udemy.com/certificate/UC-93728a00-7e17-4ff7-9e8a-5f3adb0366a9/)  
-📜 [MongoDB: Aprende desde cero a experto](https://www.udemy.com/certificate/UC-67e9d234-4dc1-47fa-9115-867d97a3e920/)  
-📜 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
+📌 **Bases de Datos & ETL**  
+- 🏆 [SQL Server Integration Services (SSIS) desde 0 hasta Experto](https://www.udemy.com/certificate/UC-4218c47c-5fd7-4291-a2e8-e7c92e410241/)  
+- 🏆 [Administración de Base de Datos SQL Server](https://www.udemy.com/certificate/UC-95f9445b-1b5e-4498-bd18-492e01500838/)  
+- 🏆 [PostgreSQL de Cero a Avanzado pgAdmin4 y Shell](https://www.udemy.com/certificate/UC-93728a00-7e17-4ff7-9e8a-5f3adb0366a9/)  
+- 🏆 [MongoDB Aprende desde cero a experto](https://www.udemy.com/certificate/UC-67e9d234-4dc1-47fa-9115-867d97a3e920/)  
+
+📌 **Versionado y Desarrollo**  
+- 🏆 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
 
 
 
