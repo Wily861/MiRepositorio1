@@ -67,7 +67,7 @@ y **útiles** en la **toma de decisiones**.
 ## 🌍 Idiomas  
 
 ![Español](https://img.shields.io/badge/Español-ff5733?style=flat&logo=language&logoColor=white) ![Nivel](https://img.shields.io/badge/Nativo-7f8c8d?style=flat&color=gray)  
-![Inglés](https://img.shields.io/badge/Inglés-3498db?style=flat&logo=language&logoColor=white) ![Nivel](https://img.shields.io/badge/Básico-7f8c8d?style=flat&color=gray)  
+![Inglés](https://img.shields.io/badge/Inglés-3498db?style=flat&logo=language&logoColor=white) ![Nivel](https://img.shields.io/badge/A1-7f8c8d?style=flat&color=gray)  
 
 ---
 ## 🎓 Certificaciones  
