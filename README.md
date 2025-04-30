@@ -86,8 +86,5 @@ y **útiles** en la **toma de decisiones**.
 🔗 **[LinkedIn]**(https://www.linkedin.com/in/TuPerfil)  
 📩 **Correo:** willyvillamil61@gmail.com  
 
-## 📩 **Contact Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TuNombre-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TuUsuario)  
-[![Gmail](https://img.shields.io/badge/Gmail-willyvillamil61@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TuEmail)  
 
