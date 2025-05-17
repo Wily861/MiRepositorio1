@@ -61,22 +61,10 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 ---
 ## 🚀 Propuesta de Valor  
 
-💡 **Transformo datos en conocimiento estratégico** para impulsar decisiones inteligentes y mejorar la eficiencia operativa.  
-⚙️ **Optimizo procesos ETL** garantizando integridad, velocidad y precisión en el manejo de la información.  
-📊 **Desarrollo soluciones innovadoras** alineadas con objetivos empresariales, asegurando escalabilidad y rendimiento óptimo.  
-🔍 **Especialista en validación y monitoreo de datos**, aplicando herramientas avanzadas para garantizar fiabilidad y calidad.  
-
----
-## 📊 Estadísticas  
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Wily861&show_icons=true&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wily861&theme=radical)  
-
-![Commits y PRs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wily861&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Wily861&layout=compact&theme=radical)
-
+- 💡 **Transformo datos en conocimiento estratégico** para impulsar decisiones inteligentes y mejorar la eficiencia operativa.  
+- ⚙️ **Optimizo procesos ETL** garantizando integridad, velocidad y precisión en el manejo de la información.  
+- 📊 **Desarrollo soluciones innovadoras** alineadas con objetivos empresariales, asegurando escalabilidad y rendimiento óptimo.  
+- 🔍 **Especialista en validación y monitoreo de datos**, aplicando herramientas avanzadas para garantizar fiabilidad y calidad. 
 --- 
 ## 🌍 Idiomas  
 
@@ -94,6 +82,17 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 - 🏆 [SQL: Desde cero para principiantes (Linux)](https://www.udemy.com/certificate/UC-96447c8f-d17a-4de9-9ddf-dc549fddcf6c/)
 - 🏆 [Análisis de datos con Microsoft Excel y Power BI](https://www.udemy.com/certificate/UC-1b6023cd-b185-49fe-a130-1569fa4cddc0/)  
 - 🏆 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
+---
+
+## 📊 Estadísticas  
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Wily861&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wily861&theme=radical)  
+
+![Commits y PRs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wily861&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Wily861&layout=compact&theme=radical)
 
 --- 
 ## 📫 ¡Conéctate conmigo!  
