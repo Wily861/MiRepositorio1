@@ -8,9 +8,33 @@
 
 --- 
 ## 👤 Acerca de mí
-**Apasionado** por la **tecnología** y el mundo de los **datos**, disfruto **optimizando procesos**, resolviendo **problemas complejos** y explorando **herramientas** que mejoren la **calidad** y **confiabilidad** de la información. Tengo **experiencia** 
-en **bases de datos**, **automatización de procesos ETL** y **análisis de datos**, trabajando con **SQL Server**, **Azure**, **PostgreSQL** y más. Me motiva **estructurar la información** de manera **clara** y **funcional** para garantizar **datos precisos** 
-y **útiles** en la **toma de decisiones**.
+💡 **Administrador de Bases de Datos Junior** | **Ingeniero de Datos Junior**  
+
+📊 **Transformando datos en información estratégica**  
+Apasionado por la **administración** y **análisis de bases de datos**, garantizo **eficiencia** y **seguridad** en cada proceso.  
+Con experiencia en **SQL Server**, **PostgreSQL**, **Oracle** y **MySQL**, optimizo **flujos de trabajo** y desarrollo **soluciones escalables** en **Microsoft Azure**, **Visual Studio Tools** y **Jira**.  
+
+🏆 **Logros Destacados**  
+✔️ **Optimización de Procesos**: Implementación de mejoras que redujeron tiempos de ejecución en un **30%**.  
+✔️ **Gestión de Datos Segura**: Desarrollo de **validaciones avanzadas** para garantizar **integridad** y **calidad**.  
+✔️ **Colaboración Efectiva**: Liderazgo en **proyectos clave**, asegurando alineación con **objetivos estratégicos**.  
+
+🛠 **Habilidades Técnicas & Blandas**  
+🔹 **SQL Avanzado**: Creación de **scripts eficientes** para **análisis** y **gestión de datos**.  
+🔹 **ETL & Automatización**: Procesos **robustos** con **validaciones** y **optimización**.  
+🔹 **Análisis & Solución de Problemas**: **Pensamiento crítico** para detectar y resolver **errores**.  
+🔹 **Comunicación & Trabajo en Equipo**: **Adaptabilidad** y enfoque **colaborativo**.  
+
+🌟 **Propuesta de Valor**  
+Mi enfoque combina **precisión** y **creatividad** para diseñar **soluciones innovadoras** en la **gestión** y **análisis de datos**.  
+Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.  
+
+💼 **Actitudes**  
+✨ **Proactividad** para anticiparme a los desafíos.  
+✨ **Compromiso** con la mejora continua.  
+✨ **Atención al detalle** para asegurar **precisión**.  
+✨ **Responsabilidad** en la entrega de **resultados**.  
+✨ **Mentalidad de aprendizaje constante**.  
 
 --- 
 ## 🛠️  Tecnologías
@@ -43,16 +67,6 @@ y **útiles** en la **toma de decisiones**.
 🔍 **Especialista en validación y monitoreo de datos**, aplicando herramientas avanzadas para garantizar fiabilidad y calidad.  
 
 ---
-## 🏆 Logros y Contribuciones
-- Diseño y automatización de procesos ETL, reduciendo tiempos de ejecución.
-- Validación y remediación de datos para asegurar su integridad.
-- Administración de bases de datos en SQL Server, PostgreSQL, Oracle y MySQL.
-- Optimización de consultas SQL avanzadas para mayor eficiencia.
-- Implementación de estrategias de monitoreo con Grafana y Jira.
-- Desarrollo de scripts SQL para automatizar procesos.
-- Integración de bases de datos con plataformas en la nube como Azure y AWS.
-
----
 ## 📊 Estadísticas  
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Wily861&show_icons=true&theme=radical)  
@@ -76,10 +90,10 @@ y **útiles** en la **toma de decisiones**.
 - 🏆 [SQL Server Integration Services (SSIS) desde 0 hasta Experto](https://www.udemy.com/certificate/UC-4218c47c-5fd7-4291-a2e8-e7c92e410241/)  
 - 🏆 [Administración de Base de Datos SQL Server](https://www.udemy.com/certificate/UC-95f9445b-1b5e-4498-bd18-492e01500838/)  
 - 🏆 [PostgreSQL de Cero a Avanzado pgAdmin4 y Shell](https://www.udemy.com/certificate/UC-93728a00-7e17-4ff7-9e8a-5f3adb0366a9/)  
-- 🏆 [MongoDB Aprende desde cero a experto](https://www.udemy.com/certificate/UC-67e9d234-4dc1-47fa-9115-867d97a3e920/)  
+- 🏆 [MongoDB Aprende desde cero a experto](https://www.udemy.com/certificate/UC-67e9d234-4dc1-47fa-9115-867d97a3e920/)
+- 🏆 [ Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-67e9d234-4dc1-47fa-9115-867d97a3e920/)  
 
-📌 **Versionado y Desarrollo**  
-- 🏆 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
+
 
 --- 
 ## 📫 ¡Conéctate conmigo!  
