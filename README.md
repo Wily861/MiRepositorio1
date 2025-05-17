@@ -87,6 +87,22 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 - 🏆 [Análisis de datos con Microsoft Excel y Power BI](https://www.udemy.com/certificate/UC-1b6023cd-b185-49fe-a130-1569fa4cddc0/)  
 - 🏆 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
 ---
+## 📊 Trabajos Prácticos en Excel  
+
+Este archivo contiene diversas prácticas y proyectos enfocados en **análisis y visualización de datos**.  
+
+📂 **Incluye:**  
+- 🔥 **Mapa de Calor**: Representación visual de datos de ventas mensuales.  
+- 📈 **Gráficos de Progreso**: Seguimiento del rendimiento de vendedores a lo largo de los años.  
+- ⏰ **Creación de Recordatorios**: Planificación de tareas clave y fechas de entrega.  
+- 📊 **Gráficos Automáticos**: Visualización dinámica del estado de proyectos.  
+- 🔍 **Buscador Automático**: Filtrado de productos y origen de datos.  
+- 🗺️ **Mapas**: Análisis de ingresos y gastos por ciudad.  
+- 💰 **Gráficos Financieros**: Tendencias de ingresos a lo largo del tiempo.  
+
+📥 **[Accede al archivo aquí](https://docs.google.com/spreadsheets/d/1nVGfwWi7VwOJnevOJSOCEuqcuqZyoO7g/edit?usp=sharing)**  
+
+---
 
 ## 📊 Estadísticas  
 
