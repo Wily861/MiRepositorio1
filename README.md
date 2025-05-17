@@ -96,8 +96,9 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 
 --- 
 ## 📫 ¡Conéctate conmigo!  
-🔗 **[LinkedIn]**(www.linkedin.com/in/wily-duvan-villamil-rey)  
-📩 **Correo:** willyvillamil861@gmail.com  
 
+🔗 LinkedIn: [www.linkedin.com/in/wily-duvan-villamil-rey](https://www.linkedin.com/in/wily-duvan-villamil-rey)  
+
+📩 Correo: willyvillamil861@gmail.com  
 
 
