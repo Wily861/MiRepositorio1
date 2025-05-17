@@ -83,8 +83,8 @@ y **útiles** en la **toma de decisiones**.
 
 --- 
 ## 📫 ¡Conéctate conmigo!  
-🔗 **[LinkedIn]**(https://www.linkedin.com/in/TuPerfil)  
-📩 **Correo:** willyvillamil61@gmail.com  
+🔗 **[LinkedIn]**(www.linkedin.com/in/wily-duvan-villamil-rey)  
+📩 **Correo:** willyvillamil861@gmail.com  
 
 
 
