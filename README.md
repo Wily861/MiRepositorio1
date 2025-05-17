@@ -1,10 +1,14 @@
 ## 🚀 Bienvenido a Mi Espacio En GitHub 
 
+| ![Bienvenida](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI5cndnNHhubzhxOHM4NnY3cTlxMXNpejlhOG1peHphY3Y5N2JqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/euD0Z9UKkZ2WtgLMe9/giphy.gif) |
+|:--:|
+
+🚀 **Transformo datos en información estratégica, optimizando procesos y garantizando la calidad del análisis.**
+
+---
 ## 👋  Soy Wily Duvan Villamil Rey  
 
 📍 **Ubicación:** Itagüí, Antioquia, Colombia 
-
-🚀 **Transformo datos en información estratégica, optimizando procesos y garantizando la calidad del análisis.**
 
 --- 
 ## 👤 Acerca de mí
@@ -95,6 +99,13 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Wily861&layout=compact&theme=radical)
 
 --- 
+
+📩 **¿Quieres colaborar en proyectos de administración y desarrollo de bases de datos?**  
+🚀 ¡Contáctame y trabajemos juntos en algo innovador!
+
+| ![Bienvenida](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVyaml0YW5sMmR1Znp3Z2g1dThiZ3cyb2J6N2l1enVpaHc2dTFrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) |
+|:--:|
+
 ## 📫 ¡Conéctate conmigo!  
 
 🔗 LinkedIn: [www.linkedin.com/in/wily-duvan-villamil-rey](https://www.linkedin.com/in/wily-duvan-villamil-rey)  
