@@ -93,6 +93,7 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 - 🏆 [MongoDB Aprende desde cero a experto](https://www.udemy.com/certificate/UC-67e9d234-4dc1-47fa-9115-867d97a3e920/)
 - 🏆 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
 
+- 🏆 [Análisis de datos con Microsoft Excel y Power BI](https://www.udemy.com/certificate/UC-1b6023cd-b185-49fe-a130-1569fa4cddc0/)  
 
 
 --- 
