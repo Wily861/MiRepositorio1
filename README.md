@@ -10,6 +10,10 @@
 
 📍 **Ubicación:** Itagüí, Antioquia, Colombia 
 
+---
+🌟 **Propuesta de Valor**  
+Mi enfoque combina **precisión** y **creatividad** para diseñar **soluciones innovadoras** en la **gestión** y **análisis de datos**.  
+Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.  
 --- 
 ## 👤 Acerca de mí
 💡 **Administrador de Bases de Datos Junior** | **Ingeniero de Datos Junior**  
@@ -29,10 +33,6 @@ Con experiencia en **SQL Server**, **PostgreSQL**, **Oracle** y **MySQL**, optim
 🔹 **Análisis & Solución de Problemas**: **Pensamiento crítico** para detectar y resolver **errores**.  
 🔹 **Comunicación & Trabajo en Equipo**: **Adaptabilidad** y enfoque **colaborativo**.  
 
-🌟 **Propuesta de Valor**  
-Mi enfoque combina **precisión** y **creatividad** para diseñar **soluciones innovadoras** en la **gestión** y **análisis de datos**.  
-Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.  
-
 💼 **Actitudes**  
 ✨ **Proactividad** para anticiparme a los desafíos.  
 ✨ **Compromiso** con la mejora continua.  
@@ -40,35 +40,60 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 ✨ **Responsabilidad** en la entrega de **resultados**.  
 ✨ **Mentalidad de aprendizaje constante**.  
 
---- 
-## 🛠️  Tecnologías
-- **Bases de datos:** SQL Server, Azure, PostgreSQL, Oracle, MySQL Workbench, DBeaver, HeidiSQL
-- **Automatización y ETL:** SSIS, Procedimientos Almacenados, Validación de Datos
-- **Versionado:** GitHub
-- **Monitoreo y Gestión:** Grafana, Jira, GLPI
-- **Plataformas en la Nube:** Microsoft Azure, AWS
-- **Otros:** MongoDB, Oracle Autonomous Databases, Oracle GoldenGate, Linux
+---
+## 📊 Trabajos Prácticos en Excel  
 
+Este archivo contiene diversas prácticas y proyectos enfocados en **análisis y visualización de datos**.  
+
+📂 **Incluye:**  
+- 🔥 **Mapa de Calor**: Representación visual de datos de ventas mensuales.  
+- 📈 **Gráficos de Progreso**: Seguimiento del rendimiento de vendedores a lo largo de los años.  
+- ⏰ **Creación de Recordatorios**: Planificación de tareas clave y fechas de entrega.  
+- 📊 **Gráficos Automáticos**: Visualización dinámica del estado de proyectos.  
+- 🔍 **Buscador Automático**: Filtrado de productos y origen de datos.  
+- 🗺️ **Mapas**: Análisis de ingresos y gastos por ciudad.  
+- 💰 **Gráficos Financieros**: Tendencias de ingresos a lo largo del tiempo.  
+
+📥 **[Accede al archivo aquí](https://docs.google.com/spreadsheets/d/1nVGfwWi7VwOJnevOJSOCEuqcuqZyoO7g/edit?usp=sharing)**  
+
+--- 
+## 🛠️ Tecnologías  
+
+###  Bases de Datos  
+- **SQL Server**, **PostgreSQL**, **Oracle**, **MySQL Workbench**, **DBeaver**, **HeidiSQL**
+  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
 ![DBeaver](https://img.shields.io/badge/DBeaver-5E7BBE?style=flat&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-336791?style=flat&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Nivel](https://img.shields.io/badge/Intermedio-1f72be?style=flat&color=blue)  
+
+### Automatización y ETL  
+- **SSIS**, **Procedimientos Almacenados**, **Validación de Datos**  
+
+### Versionado y Colaboración  
+- **GitHub**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Nivel](https://img.shields.io/badge/BásicoIntermedio-7f8c8d?style=flat&color=gray)  
+
+### Monitoreo y Gestión  
+- **Grafana**, **Jira**, **GLPI**
+
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Nivel](https://img.shields.io/badge/Intermedio-1f72be?style=flat&color=blue)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Nivel](https://img.shields.io/badge/BásicoIntermedio-7f8c8d?style=flat&color=gray)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Nivel](https://img.shields.io/badge/Básico-7f8c8d?style=flat&color=gray)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Nivel](https://img.shields.io/badge/Básico-7f8c8d?style=flat&color=gray)  
 
----
-## 🚀 Propuesta de Valor  
+### Plataformas en la Nube  
+- **Microsoft Azure**, **AWS**
 
-- 💡 **Transformo datos en conocimiento estratégico** para impulsar decisiones inteligentes y mejorar la eficiencia operativa.  
-- ⚙️ **Optimizo procesos ETL** garantizando integridad, velocidad y precisión en el manejo de la información.  
-- 📊 **Desarrollo soluciones innovadoras** alineadas con objetivos empresariales, asegurando escalabilidad y rendimiento óptimo.  
-- 🔍 **Especialista en validación y monitoreo de datos**, aplicando herramientas avanzadas para garantizar fiabilidad y calidad. 
+ ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![Nivel](https://img.shields.io/badge/IntermedioAvanzado-2ecc71?style=flat&color=green)  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Nivel](https://img.shields.io/badge/Básico-7f8c8d?style=flat&color=gray)  
+
+###  Otras Tecnologías  
+- **MongoDB**, **Oracle Autonomous Databases**, **Oracle GoldenGate**, **Linux**
+  
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Nivel](https://img.shields.io/badge/Básico-7f8c8d?style=flat&color=gray)  
+
 --- 
 ## 🌍 Idiomas  
 
@@ -86,21 +111,6 @@ Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.
 - 🏆 [SQL: Desde cero para principiantes (Linux)](https://www.udemy.com/certificate/UC-96447c8f-d17a-4de9-9ddf-dc549fddcf6c/)
 - 🏆 [Análisis de datos con Microsoft Excel y Power BI](https://www.udemy.com/certificate/UC-1b6023cd-b185-49fe-a130-1569fa4cddc0/)  
 - 🏆 [Git y GitHub desde Cero a Experto](https://www.udemy.com/certificate/UC-c541ad91-bd03-45c5-a391-10e1473a6541/)  
----
-## 📊 Trabajos Prácticos en Excel  
-
-Este archivo contiene diversas prácticas y proyectos enfocados en **análisis y visualización de datos**.  
-
-📂 **Incluye:**  
-- 🔥 **Mapa de Calor**: Representación visual de datos de ventas mensuales.  
-- 📈 **Gráficos de Progreso**: Seguimiento del rendimiento de vendedores a lo largo de los años.  
-- ⏰ **Creación de Recordatorios**: Planificación de tareas clave y fechas de entrega.  
-- 📊 **Gráficos Automáticos**: Visualización dinámica del estado de proyectos.  
-- 🔍 **Buscador Automático**: Filtrado de productos y origen de datos.  
-- 🗺️ **Mapas**: Análisis de ingresos y gastos por ciudad.  
-- 💰 **Gráficos Financieros**: Tendencias de ingresos a lo largo del tiempo.  
-
-📥 **[Accede al archivo aquí](https://docs.google.com/spreadsheets/d/1nVGfwWi7VwOJnevOJSOCEuqcuqZyoO7g/edit?usp=sharing)**  
 
 ---
 
