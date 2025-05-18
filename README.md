@@ -8,7 +8,7 @@
 ---
 ## 👋  Soy Wily Duvan Villamil Rey  
 
-📍 **Ubicación:** Itagüí, Antioquia, Colombia 
+📍 **Ubicación:** Medellín, Antioquia, Colombia 
 
 ---
 🌟 **Propuesta de Valor**  
