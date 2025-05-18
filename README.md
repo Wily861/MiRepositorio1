@@ -14,6 +14,7 @@
 🌟 **Propuesta de Valor**  
 Mi enfoque combina **precisión** y **creatividad** para diseñar **soluciones innovadoras** en la **gestión** y **análisis de datos**.  
 Garantizo **eficiencia**, **seguridad** y **calidad** en cada proyecto.  
+
 --- 
 ## 👤 Acerca de mí
 💡 **Administrador de Bases de Datos Junior** | **Ingeniero de Datos Junior**  
