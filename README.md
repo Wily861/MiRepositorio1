@@ -135,7 +135,7 @@ Este archivo contiene diversas prácticas y proyectos enfocados en **análisis y
 
 ## 📫 ¡Conéctate conmigo!  
 
-🔗 LinkedIn: [www.linkedin.com/in/wily-duvan-villamil-rey](https://www.linkedin.com/in/wily-duvan-villamil-rey)  
+🔗 LinkedIn: [Wily Duvan Villamil Rey](https://www.linkedin.com/in/wily-duvan-villamil-rey)  
 
 📩 Correo: willyvillamil861@gmail.com  
 
