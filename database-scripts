@@ -1,21 +1,35 @@
-##database-scripts
+# 📁 database-scripts
 
-Este repositorio contiene una colección organizada de scripts SQL destinados a tareas comunes de administración y mantenimiento de bases de datos. 
-Su objetivo principal es facilitar la gestión de objetos, control de accesos y automatización de operaciones rutinarias en entornos de desarrollo y producción.
+Este repositorio contiene una **colección organizada de scripts SQL** desarrollados a lo largo de mi trayectoria como profesional en el mundo de bases de datos. Están orientados a cubrir tareas comunes de administración, mantenimiento, control de acceso y automatización de operaciones rutinarias sobre entornos Oracle y otros motores SQL.
 
-## 📂 Contenido
+A lo largo de mi experiencia he trabajado en soluciones para clientes de alto impacto como:
 
-- Scripts de permisos (GRANT)
-- Consultas administrativas (catálogo, objetos)
-- Mantenimiento de esquemas y usuarios
-- Soporte para bases de datos Oracle
+- 🏬 **Alkosto**
+- 🏥 **Cardio Infantil**, **EMI**, **HPTU (Hospital Pablo Tobón Uribe)**
+- 🏛️ **FiduPopular (Banco Popular)**
+- 🏢 **Metro de Medellín**, **Ceipa**, **Flamingo**
+- 🛍️ **Novaventa**, **La Riviera**
+- 🛡️ **Protección**
+- 📦 **Zona Franca**
+
+Estos scripts han sido de uso frecuente en actividades reales de soporte, implementación y auditoría en esos entornos corporativos.
 
 ---
 
-## 📝 Scripts
+## 📂 Contenido del Repositorio
 
-### Otorgar permisos al usuario `SERV_APP` sobre objetos del esquema 'PRDN'
+- 🔐 Scripts de gestión de permisos (`GRANT`, `REVOKE`)
+- 🗃️ Consultas administrativas (uso de catálogos, metadatos)
+- 🛠️ Mantenimiento de esquemas y usuarios
+- 🧩 Scripts compatibles con bases de datos Oracle (ajustables a otros motores)
 
+---
+
+## 📝 Ejemplo de Script
+
+### 🎯 Otorgar permisos al usuario `SERV_APP` sobre objetos del esquema `PRDN`
+
+```sql
 /* 
 ------------------------------------------------------------------------------------------
 -- Script: grant_permissions_to_serv_app.sql
@@ -29,6 +43,7 @@ Su objetivo principal es facilitar la gestión de objetos, control de accesos y 
 -- - EXECUTE sobre todos los procedimientos almacenados.
 ------------------------------------------------------------------------------------------
 */
+
 -- Permisos SELECT sobre tablas y vistas
 SELECT 'GRANT SELECT ON ' || owner || '.' || object_name || ' TO "SERV_APP";' AS grant_statement
   FROM dba_objects
