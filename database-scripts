@@ -13,7 +13,7 @@ Este repositorio contiene una colección organizada de scripts SQL destinados a 
 
 ## 📝 Scripts
 
-### Otorgar permisos al usuario `SERV_APP` sobre objetos del esquema `PRDN`
+### Otorgar permisos al usuario `SERV_APP` sobre objetos del esquema 'PRDN'
 
 ```sql
 /* 
