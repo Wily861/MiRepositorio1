@@ -1,1 +1,45 @@
+##database-scripts##
+
+Este repositorio contiene una colección organizada de scripts SQL destinados a tareas comunes de administración y mantenimiento de bases de datos. Su objetivo principal es facilitar la gestión de objetos, control de accesos y automatización de operaciones rutinarias en entornos de desarrollo y producción.
+
+## 📂 Contenido
+
+- Scripts de permisos (GRANT)
+- Consultas administrativas (catálogo, objetos)
+- Mantenimiento de esquemas y usuarios
+- Soporte para bases de datos Oracle
+
+---
+
+## 📝 Scripts
+
+### Otorgar permisos al usuario `SERV_APP` sobre objetos del esquema `PRDN`
+
+```sql
+/* 
+------------------------------------------------------------------------------------------
+-- Script: grant_permissions_to_serv_app.sql
+-- Autor: Wily Duvan Villamil Rey
+-- Fecha: 10/06/2025
+--
+-- Descripción:
+-- Genera dinámicamente sentencias GRANT para otorgar permisos al usuario "SERV_APP" 
+-- sobre objetos del esquema PRDN.
+-- - SELECT sobre todas las tablas y vistas.
+-- - EXECUTE sobre todos los procedimientos almacenados.
+------------------------------------------------------------------------------------------
+*/
+-- Permisos SELECT sobre tablas y vistas
+SELECT 'GRANT SELECT ON ' || owner || '.' || object_name || ' TO "SERV_APP";' AS grant_statement
+  FROM dba_objects
+ WHERE owner = 'PRDN'
+   AND object_type IN ('TABLE', 'VIEW')
+
+UNION
+
+-- Permisos EXECUTE sobre procedimientos almacenados
+SELECT 'GRANT EXECUTE ON ' || owner || '.' || object_name || ' TO "SERV_APP";' AS grant_statement
+  FROM dba_objects
+ WHERE owner = 'PRDN'
+   AND object_type = 'PROCEDURE';
 
