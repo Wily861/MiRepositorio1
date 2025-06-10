@@ -16,7 +16,6 @@ Su objetivo principal es facilitar la gestión de objetos, control de accesos y 
 
 ### Otorgar permisos al usuario `SERV_APP` sobre objetos del esquema 'PRDN'
 
-```sql
 /* 
 ------------------------------------------------------------------------------------------
 -- Script: grant_permissions_to_serv_app.sql
