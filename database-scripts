@@ -58,3 +58,39 @@ SELECT 'GRANT EXECUTE ON ' || owner || '.' || object_name || ' TO "SERV_APP";' A
  WHERE owner = 'PRDN'
    AND object_type = 'PROCEDURE';
 
+
+--
+
+/*
+-------------------------------------------------------------------------------------
+-- Script: user_setup_and_permissions.sql
+-- Autor: Wily Duvan Villamil Rey
+-- Fecha: 10/06/2025
+--
+-- Descripción:
+-- Este script crea un usuario, otorga permisos específicos en una base de datos 
+-- y elimina una función existente si ya no se requiere. Diseñado para entornos 
+-- PostgreSQL (ajustar según el motor si es necesario).
+-------------------------------------------------------------------------------------
+*/
+
+-- 1. Crear el usuario Leadpasivos con una contraseña segura
+CREATE USER leadpasivos WITH PASSWORD 'h8A2WuDS';
+
+-- 2. Conceder permisos de conexión a la base de datos dbOzono al usuario usrDivisasRead
+GRANT CONNECT ON DATABASE "dbOzono" TO "usrDivisasRead";
+
+-- 3. Otorgar uso del esquema flujodivisasgiros al usuario usrDivisasRead
+GRANT USAGE ON SCHEMA flujodivisasgiros TO "usrDivisasRead";
+
+-- 4. Otorgar permisos de lectura (SELECT) sobre todas las tablas del esquema flujodivisasgiros
+GRANT SELECT ON ALL TABLES IN SCHEMA flujodivisasgiros TO "usrDivisasRead";
+
+-- 5. Eliminar la función registrotipo1 del esquema flujos_cdt, si ya no es necesaria
+DROP FUNCTION flujos_cdt.registrotipo1(varchar);
+
+
+
+
+
+
