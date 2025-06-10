@@ -58,7 +58,6 @@ SELECT 'GRANT EXECUTE ON ' || owner || '.' || object_name || ' TO "SERV_APP";' A
  WHERE owner = 'PRDN'
    AND object_type = 'PROCEDURE';
 
-
 --
 
 /*
@@ -74,20 +73,21 @@ SELECT 'GRANT EXECUTE ON ' || owner || '.' || object_name || ' TO "SERV_APP";' A
 -------------------------------------------------------------------------------------
 */
 
--- 1. Crear el usuario Leadpasivos con una contraseña segura
+-- 🔹 ① Crear el usuario Leadpasivos con una contraseña segura
 CREATE USER leadpasivos WITH PASSWORD 'h8A2WuDS';
 
--- 2. Conceder permisos de conexión a la base de datos dbOzono al usuario usrDivisasRead
+-- 🔹 ② Conceder permisos de conexión a la base de datos dbOzono al usuario usrDivisasRead
 GRANT CONNECT ON DATABASE "dbOzono" TO "usrDivisasRead";
 
--- 3. Otorgar uso del esquema flujodivisasgiros al usuario usrDivisasRead
+-- 🔹 ③ Otorgar uso del esquema flujodivisasgiros al usuario usrDivisasRead
 GRANT USAGE ON SCHEMA flujodivisasgiros TO "usrDivisasRead";
 
--- 4. Otorgar permisos de lectura (SELECT) sobre todas las tablas del esquema flujodivisasgiros
+-- 🔹 ④ Otorgar permisos de lectura (SELECT) sobre todas las tablas del esquema flujodivisasgiros
 GRANT SELECT ON ALL TABLES IN SCHEMA flujodivisasgiros TO "usrDivisasRead";
 
--- 5. Eliminar la función registrotipo1 del esquema flujos_cdt, si ya no es necesaria
+-- 🔹 ⑤ Eliminar la función registrotipo1 del esquema flujos_cdt, si ya no es necesaria
 DROP FUNCTION flujos_cdt.registrotipo1(varchar);
+
 
 
 
