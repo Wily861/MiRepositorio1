@@ -1,6 +1,7 @@
 ##database-scripts
 
-Este repositorio contiene una colección organizada de scripts SQL destinados a tareas comunes de administración y mantenimiento de bases de datos. Su objetivo principal es facilitar la gestión de objetos, control de accesos y automatización de operaciones rutinarias en entornos de desarrollo y producción.
+Este repositorio contiene una colección organizada de scripts SQL destinados a tareas comunes de administración y mantenimiento de bases de datos. 
+Su objetivo principal es facilitar la gestión de objetos, control de accesos y automatización de operaciones rutinarias en entornos de desarrollo y producción.
 
 ## 📂 Contenido
 
